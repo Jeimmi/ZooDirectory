@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">ZooDirectory</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_info">Information</string>
+    <string name="action_uninstall">Uninstall</string>
+    <string name="panda_info">Bears that are native to China, where they are consider national treasure. </string>
+    <string name="gorilla_info">Gorillas fit into the category of primates. Many people are fascinated with gorillas due to the fact that they have so many characteristics of humans.</string>
+    <string name="elephant_info">There are two species of elephants remaining the African and the Asian. They range in color from light to dark gray, with the most distinct features being their huge ears and tusks.</string>
+    <string name="giraffe_info">The tall and lanky body of it covered in spots is very unusual and an animal that most people enjoy seeing.</string>
+    <string name="lion_info">Lions are large felines that are traditionally depicted as the "king of the jungle".</string>
+    <string name="zoo_info">California Zoo. This zoo is full of cool animals. You should come and check it out. </string>
 </resources>
